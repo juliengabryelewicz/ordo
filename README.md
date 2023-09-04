@@ -40,3 +40,8 @@ poetry run uninstall nom_de_mon_plugin
 ```
 
 Il est recommandé de ne pas supprimer le dossier du plugin manuellement afin de nettoyer également les librairies nécessaires uniquement au plugin à supprimer.
+
+## Liste de plugins disponibles
+
+| [ordo_clock](https://github.com/juliengabryelewicz/ordo_clock) | Application permettant d'afficher la date et l'heure |
+|-----------:|-----------------------------------------------------:|
