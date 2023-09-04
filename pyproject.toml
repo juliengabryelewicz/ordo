@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ordo"
+version = "0.1.0"
+description = ""
+authors = ["Julien Gabryelewicz <julien.gabryelewicz2@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+kivy = "^2.2.1"
+
+[tool.poetry.scripts]
+uninstall = "ordo.uninstall:run"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

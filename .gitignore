@@ -1,0 +1,4 @@
+ordo/plugins/ordo_*
+ordo/cache
+__pycache__
+ordo/parameters/ordo.json
