@@ -45,6 +45,8 @@ Il est recommandé de ne pas supprimer le dossier du plugin manuellement afin de
 
 ## Liste de plugins disponibles
 
-| [ordo_clock](https://github.com/juliengabryelewicz/ordo_clock) | Application permettant d'afficher la date et l'heure |
+| Nom | Description |
 |------------|------------------------------------------------------|
+| [ordo_clock](https://github.com/juliengabryelewicz/ordo_clock) | Application permettant d'afficher la date et l'heure |
 | [ordo_map](https://github.com/juliengabryelewicz/ordo_map) | Application permettant d'afficher la météo de la ville de votre choix |
+| [ordo_paint](https://github.com/juliengabryelewicz/ordo_paint) | Application permettant de dessiner avec vos doigts sur un écran tactile |
