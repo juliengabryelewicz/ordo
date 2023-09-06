@@ -47,4 +47,4 @@ Il est recommandé de ne pas supprimer le dossier du plugin manuellement afin de
 
 | [ordo_clock](https://github.com/juliengabryelewicz/ordo_clock) | Application permettant d'afficher la date et l'heure |
 |------------|------------------------------------------------------|
-| [ordo_map](https://github.com/juliengabryelewicz/ordo_map) | Application permettant la météo de la ville de votre choix |
+| [ordo_map](https://github.com/juliengabryelewicz/ordo_map) | Application permettant d'afficher la météo de la ville de votre choix |
