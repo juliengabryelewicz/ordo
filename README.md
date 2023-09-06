@@ -27,6 +27,8 @@ Exemple :
 
 ## Commandes
 
+il est nécessaire d'avoir poetry installé sur votre machine et d'être sur le dossier ordo de votre application.
+
 ### Lancer l'application.
 
 ```
@@ -44,4 +46,5 @@ Il est recommandé de ne pas supprimer le dossier du plugin manuellement afin de
 ## Liste de plugins disponibles
 
 | [ordo_clock](https://github.com/juliengabryelewicz/ordo_clock) | Application permettant d'afficher la date et l'heure |
+| [ordo_map](https://github.com/juliengabryelewicz/ordo_map) | Application permettant la météo de la ville de votre choix |
 |-----------:|-----------------------------------------------------:|
