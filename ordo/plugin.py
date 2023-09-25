@@ -59,7 +59,6 @@ class PluginList:
                     try:
                         plugin_info = self.parse_plugin(root)
                     except Exception as e:
-                        print(e)
                         error_message = ''
                         if hasattr(e, 'strerror') and e.strerror:
                             error_message = e.strerror
